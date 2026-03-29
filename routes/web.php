@@ -5,4 +5,4 @@ use Illuminate\Support\Facades\Route;
 
 
 // Route::livewire('/', 'pages.home');
-Route::get('/', Home::class);
+Route::get('/', Home::class)->name('home');
