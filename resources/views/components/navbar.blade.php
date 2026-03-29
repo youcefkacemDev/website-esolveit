@@ -5,7 +5,7 @@
         <!-- Menu For Mobile Device -->
         <div class="mobile-nav">
             <a href="index.html" class="logo">
-                <img src="{{ asset('assets/images/logo/esolveit_logo.png') }}" alt="Logo" />
+                <img src="{{ asset('assets/images/logo/esolveit_logo.png') }}" alt="Logo" height="50" />
             </a>
         </div>
 
