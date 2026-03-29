@@ -73,27 +73,9 @@
                     <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                         <ul class="navbar-nav m-auto">
                             <li class="nav-item">
-                                <a href="#" class="nav-link active">
-                                    Home
-                                    <i class="bx bx-chevron-down"></i>
+                                <a wire:navigate href="{{ route('home') }}" class="nav-link active">
+                                    {{ __('app.home') }}
                                 </a>
-                                <ul class="dropdown-menu">
-                                    <li class="nav-item">
-                                        <a href="index.html" class="nav-link active">
-                                            Home One
-                                        </a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a href="index-2.html" class="nav-link">
-                                            Home Two
-                                        </a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a href="index-3.html" class="nav-link">
-                                            Home Three
-                                        </a>
-                                    </li>
-                                </ul>
                             </li>
 
                             <li class="nav-item">
