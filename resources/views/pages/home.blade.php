@@ -7,5 +7,5 @@
     <livewire:components.services />
     <livewire:components.projects />
     <livewire:components.languages />
-
+    <livewire:components.footer />
 </div>

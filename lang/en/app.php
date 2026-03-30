@@ -25,5 +25,6 @@ return [
     'ads_info' => 'Facebook and Instagram advertising is the process of promoting products or services through targeted ads on social media platforms to reach specific audiences.',
     'google_info' => 'Google Ads is the process of promoting products or services through paid ads on Google’s search results and partner platforms to reach targeted audiences.',
     'hosting_info' => 'Web hosting is the service of storing and delivering website files on servers so they can be accessed on the internet.',
-    
+    'copyright' => 'Copyright @',
+    'all_right_reserved_by' => 'All Rights Reserved by',
 ];
