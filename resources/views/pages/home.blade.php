@@ -6,5 +6,6 @@
     <livewire:components.what-did-area />
     <livewire:components.services />
     <livewire:components.projects />
+    <livewire:components.languages />
 
 </div>
