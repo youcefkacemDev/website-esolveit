@@ -4,5 +4,6 @@
     <livewire:components.navbar />
     <livewire:components.banner />
     <livewire:components.what-did-area />
+    <livewire:components.services />
 
 </div>

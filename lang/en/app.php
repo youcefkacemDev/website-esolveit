@@ -13,4 +13,17 @@ return [
     'experienced_professionals' => 'Experienced Professionals',
     'high_level_development_skills' => 'High-Level Development Skills',
     'expertise_across_multiple_industries' => 'Expertise Across Multiple Industries',
+    'services' => 'Services',
+    'featured_services' => 'Featured Services',
+    'web_creation' => 'Web Creation',
+    'mobile_app_development' => 'Mobile App Development',
+    'facebook_instagram_ads' => 'Facebook & Instagram Ads',
+    'google_ads' => 'Google Ads',
+    'web_hosting' => 'Web Hosting',
+
+    'web_info' => 'Web creation is the process of designing, building, and maintaining websites and web applications for the internet.',
+    'mobile_info' => 'Mobile application development is the process of designing and building software applications for smartphones and tablets.',
+    'ads_info' => 'Facebook and Instagram advertising is the process of promoting products or services through targeted ads on social media platforms to reach specific audiences.',
+    'google_info' => 'Google Ads is the process of promoting products or services through paid ads on Google’s search results and partner platforms to reach targeted audiences.',
+    'hosting_info' => 'Web hosting is the service of storing and delivering website files on servers so they can be accessed on the internet.',
 ];
