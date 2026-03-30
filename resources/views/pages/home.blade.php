@@ -5,5 +5,6 @@
     <livewire:components.banner />
     <livewire:components.what-did-area />
     <livewire:components.services />
+    <livewire:components.projects />
 
 </div>
